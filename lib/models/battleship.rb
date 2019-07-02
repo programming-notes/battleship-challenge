@@ -1,1 +1,3 @@
-# Your code here
+class Battleship
+
+end

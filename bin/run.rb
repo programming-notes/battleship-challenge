@@ -1,1 +1,1 @@
-require_relative 'battleship'
+require_relative '../config/environment'
