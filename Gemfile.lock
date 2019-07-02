@@ -39,6 +39,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   pry
   rake
   require_all
